@@ -21,6 +21,6 @@ Google-drive link: [Drive](https://drive.google.com/drive/folders/12H6mogeIBCTJy
 * Divyansh
 * Mridul Pandey
 * Abhishek Shrivastav
-* Mudit Aggarwal
+* Mudit Agrawal
 * Rashi Sharma
 * Rishav Sisodiya
