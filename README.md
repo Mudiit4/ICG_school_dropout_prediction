@@ -20,7 +20,7 @@ Google-drive link: [Drive](https://drive.google.com/drive/folders/12H6mogeIBCTJy
 
 * Divyansh
 * Mridul Pandey
-* Abhishek Shrivastav
+* Abhishek Srivastava
 * Mudit Agrawal
 * Rashi Sharma
 * Rishav Sisodiya
